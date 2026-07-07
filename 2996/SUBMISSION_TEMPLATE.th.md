@@ -184,7 +184,7 @@ m
 Result:
 
 ```
-    Pass
+Pass
 ```
 
 ### Test Case 3
@@ -192,25 +192,25 @@ Result:
 ทำไมเลือก case นี้:
 
 ```
-    เป็น uppercase ทั้งหมด
+เป็น uppercase ทั้งหมด
 ```
 
 Input:
 
 ```
-    HELLO
+HELLO
 ```
 
 Expected output:
 
 ```
-    olleh
+olleh
 ```
 
 Actual output:
 
 ```
-    olleh
+olleh
 ```
 
 Result:
