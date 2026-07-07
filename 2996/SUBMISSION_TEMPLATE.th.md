@@ -14,27 +14,32 @@
 
 หมายเลข/ชื่อโจทย์ OJ:
 
-``` 2996
+``` 
+    2996
 ```
 
 OJ submission ID ถ้ามีการส่งแล้ว:
 
-``` 541547
+``` 
+    541547
 ```
 
 สถานะ OJ:
 
-``` Pass
+``` 
+    Pass
 ```
 
 เวลาที่ใช้คิดและทำโจทย์ด้วยตนเอง:
 
-``` 1 minutes
+``` 
+    1 minutes
 ```
 
 เลือกหนึ่งข้อ:
 
-``` 0-15 minutes
+``` 
+    0-15 minutes
 ```
 
 วิธีนับเวลา:
@@ -58,7 +63,8 @@ OJ submission ID ถ้ามีการส่งแล้ว:
 
 ถ้ายังไม่เข้าใจโจทย์ทั้งหมด ให้เขียนสิ่งที่เข้าใจในตอนนี้ ความเข้าใจอาจยังไม่ครบหรืออาจผิดได้ แต่ต้องพยายามอธิบายอย่างจริงใจ
 
-``` input : รับคำ
+``` 
+    input : รับคำ
     output : ส่งค่าที่สลับแล้ว
     constraints : ไม่มี
 ```
@@ -79,10 +85,10 @@ OJ submission ID ถ้ามีการส่งแล้ว:
 
 สามารถเขียนเป็น pseudocode, flowchart idea หรือขั้นตอนความคิดได้
 
-```text
-Step 1:รับค่า
-Step 2:แปลงค่า
-Step 3:แสดงผล
+``` 
+    Step 1:รับค่า
+    Step 2:แปลงค่า
+    Step 3:แสดงผล
 ```
 
 ---
@@ -101,7 +107,8 @@ Step 3:แสดงผล
 
 ห้ามคัดลอกคำอธิบายจากคนอื่น
 
-``` แปลงค่าโดยใช้ index และ .lower()
+``` 
+    แปลงค่าโดยใช้ index และ .lower()
 
 ```
 
@@ -121,93 +128,108 @@ Step 3:แสดงผล
 
 ทำไมเลือก case นี้:
 
-```มี uppercase
+``` 
+    มี uppercase
 
 ```
 
 Input:
 
-```Tomcat
+``` 
+    Tomcat
 
 ```
 
 Expected output:
 
-``` tacmot
+``` 
+    tacmot
 
 ```
 
 Actual output:
 
-``` tacmot
+``` 
+    tacmot
 
 ```
 
 Result:
 
-``` Pass
+``` 
+    Pass
 ```
 
 ### Test Case 2
 
 ทำไมเลือก case นี้:
 
-``` มีอักษรเพียงตัวเดียวและ uppercase
+``` 
+    มีอักษรเพียงตัวเดียวและ uppercase
 
 ```
 
 Input:
 
-``` M
+``` 
+    M
 
 ```
 
 Expected output:
 
-``` m
+``` 
+    m
 
 ```
 
 Actual output:
 
-``` m
+``` 
+    m
 
 ```
 
 Result:
 
-``` Pass
+``` 
+    Pass
 ```
 
 ### Test Case 3
 
 ทำไมเลือก case นี้:
 
-``` เป็น uppercase ทั้งหมด
+``` 
+    เป็น uppercase ทั้งหมด
 
 ```
 
 Input:
 
-``` HELLO
+``` 
+    HELLO
 
 ```
 
 Expected output:
 
-``` olleh
+``` 
+    olleh
 
 ```
 
 Actual output:
 
-``` olleh
+``` 
+    olleh
 
 ```
 
 Result:
 
-``` Pass
+``` 
+    Pass
 ```
 
 ---
@@ -216,7 +238,8 @@ Result:
 
 ใช้ AI กับโจทย์นี้หรือไม่
 
-``` No
+``` 
+    No
 ```
 
 ถ้าใช้ AI ต้องทำไฟล์นี้ด้วย:
@@ -233,7 +256,8 @@ ai_reflection.md
 
 ได้ถามเพื่อน TA ผู้สอน หรือบุคคลอื่นเพื่อขอความช่วยเหลือในโจทย์นี้หรือไม่
 
-``` No
+``` 
+    No
 ```
 
 ถ้าใช่ ให้อธิบายสั้น ๆ ว่าได้รับความช่วยเหลือแบบใด
@@ -257,25 +281,29 @@ ai_reflection.md
 
 ใครช่วยคุณ
 
-``` ไม่มี
+``` 
+    ไม่มี
 
 ```
 
 เขาช่วยอะไร
 
-``` ไม่มี
+``` 
+    ไม่มี
 
 ```
 
 คุณยังทำอะไรด้วยตนเอง
 
-``` เขียนโค๊ด
+``` 
+    เขียนโค๊ด
 
 ```
 
 คุณคัดลอก code จากคนอื่นหรือไม่
 
-``` No
+``` 
+    No
 ```
 
 ---
@@ -292,4 +320,4 @@ ai_reflection.md
 | I did not copy AI-generated text directly into this file. | Yes |
 | I did not copy code from another person. | Yes |
 | If I received human help, I disclosed it in this file. | Yes |
-| I submitted the final code to the OJ by myself. |Yes  |
+| I submitted the final code to the OJ by myself. | Yes |
