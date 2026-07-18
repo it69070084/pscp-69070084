@@ -138,26 +138,26 @@ Step 4 : ลูปจนกว่าจะครบ
 ทำไมเลือก case นี้:
 
 ```text
-กรณี Surprising
+กรณี มีบ้านหลังเดียว
 ```
 
 Input:
 
 ```text
-10
-9
+10 1
+3 4
 ```
 
 Expected output:
 
 ```text
-Surprising
+8
 ```
 
 Actual output:
 
 ```text
-Surprising
+8
 ```
 
 Result:
@@ -171,26 +171,29 @@ Pass
 ทำไมเลือก case นี้:
 
 ```text
-กรณี Not surprising
+กรณี บ้านมากกว่า 1
 ```
 
 Input:
 
 ```text
-3
-2
+5 2
+1 0
+0 2
 ```
 
 Expected output:
 
 ```text
-Not surprising
+1
+3
 ```
 
 Actual output:
 
 ```text
-Not surprising
+1
+3
 ```
 
 Result:
@@ -204,26 +207,26 @@ Pass
 ทำไมเลือก case นี้:
 
 ```text
-ค่าติดลบ
+กรณี บ้านอยู่ตำแหน่งที่ 0
 ```
 
 Input:
 
 ```text
--2
-5
+10 1
+0 0
 ```
 
 Expected output:
 
 ```text
-Surprising
+0
 ```
 
 Actual output:
 
 ```text
-Surprising
+0
 ```
 
 Result:
@@ -251,7 +254,7 @@ ai_reflection.md
 ถ้าถามเฉพาะเพื่อน TA หรือผู้สอน และไม่ได้ใช้ AI ไม่ต้องทำ `ai_reflection.md`
 
 ---
-
+    
 ## 7. ความช่วยเหลือจากคน / การร่วมมือ
 
 ได้ถามเพื่อน TA ผู้สอน หรือบุคคลอื่นเพื่อขอความช่วยเหลือในโจทย์นี้หรือไม่
